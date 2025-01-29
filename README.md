@@ -1,0 +1,1 @@
+This repository contains a Java program demonstrating a common off-by-one error and its solution. The `Bug.java` file contains the erroneous code, which attempts to access an element beyond the bounds of an array. The `BugSolution.java` file provides the corrected code.  This simple example highlights a frequent source of bugs in array manipulation.
